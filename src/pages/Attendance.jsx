@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 export const Attendance = () => {
   const [attendance, setAttendance] = useState({
     'Fartun Ali Abdullahi': false,
-    'muna Ali Hassan': false,
+    'Asma Abdirisakh': false,
     'Amina Omar Yusuf': false,
     'Hassan Ahmed Noor': false,
     'Hamda Ali Abdullah': false,
